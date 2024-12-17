@@ -378,4 +378,6 @@ def compare():
 print(logo)
 while input("!!! Press 'y' to Guess Who Has More Followers !!! ") == "y":
     cls()
+    game = True
+    score = 0
     compare()
