@@ -1,2 +1,2 @@
 # random-code-snipps
-This is a dump of every small code project I did while learning
+Here’s a dump of every small Python project I’ve completed while learning and experimenting along the way.
